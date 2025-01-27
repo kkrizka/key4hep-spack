@@ -3,6 +3,7 @@ on:
   push:
     branches:
     - main
+    - docker-workflow-nolc
   workflow_dispatch:
 
 env:
